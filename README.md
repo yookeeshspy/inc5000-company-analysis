@@ -27,7 +27,7 @@ The dataset is used for exploratory analysis and the findings should be interpre
 
 Several metadata and web-scraping related columns that were not relevant to the analysis were removed.
 
-The `metro` column contained 58 missing values. These were investigated against the corresponding state and city values, but no reliable pattern was identified for imputing the missing entries. Since `metro` was not required for the analysis, the missing values were retained.
+The metro column contained 58 missing values. These were investigated against the corresponding state and city values, but no reliable pattern was identified for imputing the missing entries. Since `metro` was not required for the analysis, the missing values were retained.
 
 ## Analysis
 
