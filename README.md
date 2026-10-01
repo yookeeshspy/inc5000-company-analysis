@@ -101,15 +101,15 @@ Companies within each industry were ranked by revenue, and their individual shar
 
 #### Top 5 States by Number of Companies
 
-![Top 5 States by Companies](geo_company.png)
+![Top 5 States by Companies](Geo_Company.png)
 
 #### Top 5 States by Revenue
 
-![Top 5 States by Revenue](geo_revenue.png)
+![Top 5 States by Revenue](Geo_Revenue.png)
 
 #### Top 5 States by Workforce
 
-![Top 5 States by Workers](geo_workers.png)
+![Top 5 States by Workers](Geo_Workers.png)
 
 ## Tools Used
 
